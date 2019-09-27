@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="65a786a7-b59b-47df-9e2d-b53d67cd4bd2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="JUnit5 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RN9MmktE0CTX3laK3sUCyxrr0n" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="ProgrammerHotel" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SmartPhoneTest">
+    <configuration name="SmartPhoneTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorldClock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerHotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgrammerHotel" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammerHotel.SmartPhoneTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartPhoneTest.adjustTimeBeijing" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorldClock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerHotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgrammerHotel" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammerHotel.SmartPhoneTest" />
+      <option name="METHOD_NAME" value="adjustTimeBeijing" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartPhoneTest.adjustTimeMoscow" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorldClock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerHotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgrammerHotel" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammerHotel.SmartPhoneTest" />
+      <option name="METHOD_NAME" value="adjustTimeMoscow" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartPhoneTest.adjustTimeNewYork" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorldClock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerHotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgrammerHotel" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammerHotel.SmartPhoneTest" />
+      <option name="METHOD_NAME" value="adjustTimeNewYork" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SmartPhoneTest.adjustTimeSydney" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="WorldClock" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProgrammerHotel.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ProgrammerHotel" />
+      <option name="MAIN_CLASS_NAME" value="ProgrammerHotel.SmartPhoneTest" />
+      <option name="METHOD_NAME" value="adjustTimeSydney" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SmartPhoneTest" />
+        <item itemvalue="JUnit.SmartPhoneTest.adjustTimeNewYork" />
+        <item itemvalue="JUnit.SmartPhoneTest.adjustTimeSydney" />
+        <item itemvalue="JUnit.SmartPhoneTest.adjustTimeBeijing" />
+        <item itemvalue="JUnit.SmartPhoneTest.adjustTimeMoscow" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="65a786a7-b59b-47df-9e2d-b53d67cd4bd2" name="Default Changelist" comment="" />
+      <created>1569496640541</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569496640541</updated>
+      <workItem from="1569496643580" duration="10897000" />
+      <workItem from="1569512196452" duration="761000" />
+      <workItem from="1569557703561" duration="5875000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
